@@ -234,3 +234,11 @@ box-shadow: -8px 0px 15px -1px #000000;
                 color: #000000 !important;
             }
 }
+.inline{
+    display: flex;
+    justify-content: space-around;
+
+}
+.pemail{
+    flex-basis: 33.3%;
+}

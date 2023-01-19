@@ -4,5 +4,6 @@
         <li><a href="{{ route('adminprojects.index') }}">Projects</a></li>
         <li><a href="{{ route('admincategories.index') }}">Categories</a></li>
         <li><a href="{{ route('admintecnologies.index') }}">Tecnologies</a></li>
+        <li><a href="{{ route('adminemails.index') }}">Emails</a></li>
     </ul>
 </div>
